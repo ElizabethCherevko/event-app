@@ -8,3 +8,5 @@ Mobile application for organizing events.
 1. Clone the repository
 2. Open index.html in browser
 3. Start organizing events
+
+Note: Asynchronous fetch for remote changes performed.
